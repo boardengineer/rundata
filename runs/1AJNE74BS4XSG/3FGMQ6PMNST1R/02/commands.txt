@@ -1,0 +1,1 @@
+{"type":"COMMAND_LIST","commands":[null,{"command":"{\"type\":\"CARD\",\"card_index\":1,\"monster_index\":0,\"display_string\":\"Strike_G\"}"},{"command":"{\"type\":\"CARD\",\"card_index\":2,\"monster_index\":1,\"display_string\":\"Strike_G\"}","state":"savestates/0.txt"}]}

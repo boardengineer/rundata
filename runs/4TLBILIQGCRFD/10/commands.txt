@@ -1,0 +1,1 @@
+{"type":"COMMAND_LIST","commands":[null,{"command":"{\"type\":\"CARD\",\"card_index\":6,\"monster_index\":-1,\"display_string\":\"Dagger Spray\"}"}]}

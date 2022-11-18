@@ -1,0 +1,1 @@
+{"type":"COMMAND_LIST","commands":[null,{"command":"{\"type\":\"CARD\",\"card_index\":5,\"monster_index\":0,\"display_string\":\"Flying Knee\"}"},{"command":"{\"type\":\"CARD\",\"card_index\":1,\"monster_index\":1,\"display_string\":\"Slice\"}","state":"savestates/0.txt"}]}
