@@ -1,0 +1,1 @@
+{"type":"COMMAND_LIST","commands":[null,{"command":"{\"type\":\"CARD\",\"card_index\":1,\"monster_index\":0,\"display_string\":\"Neutralize\"}"}]}
